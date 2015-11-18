@@ -28,7 +28,7 @@ public class Person extends PersonDomainModel {
         this.setStreet(street);
         this.setPostalCode(postalCode);
         this.setCity(city);
-        this.setBirthday((LocalDate.of(1999, 2, 21)));
+   //     this.setBirthday((LocalDate.of(1999, 2, 21)));
     }
 
 }
